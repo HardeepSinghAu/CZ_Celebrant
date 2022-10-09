@@ -3,11 +3,27 @@
 }
 
 
-h1 {
-  font-family: 'Playfair Display', serif;
+h1, span {
+  font-family: 'Dancing Script', cursive;
 }
 .App-header {
 }
+
+
+
+p {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 11;
+}
+
+h3, a {
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+
+
+
+
 
 .App-link {
   color: #304A6D;
